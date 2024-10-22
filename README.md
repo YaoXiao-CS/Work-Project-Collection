@@ -1,2 +1,24 @@
-# Work-Project-Collection
+### Work-Project-Collection
+
+---
+
+This repository organizes some machine learning projects from my work.
+
 这个仓库整理了一些工作中的机器学习项目。
+
+---
+
+### 项目目录(逆序)
+
+| 名称                                                           | 代码 | 相关资源                                                                                 |
+| -------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------- |
+| 利用机器学习预测混凝土抗压强度并使用Docker与FastAPI形成API应用 |      | [CSDN博客](https://blog.csdn.net/AIHUBEI/article/details/143086226?spm=1001.2014.3001.5502) |
+|                                                                |      |                                                                                          |
+|                                                                |      |                                                                                          |
+|                                                                |      |                                                                                          |
+|                                                                |      |                                                                                          |
+|                                                                |      |                                                                                          |
+|                                                                |      |                                                                                          |
+|                                                                |      |                                                                                          |
+|                                                                |      |                                                                                          |
+|                                                                |      |                                                                                          |
