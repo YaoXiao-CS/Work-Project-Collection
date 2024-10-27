@@ -1,0 +1,9 @@
+huggingface-hub==0.26.1 
+safetensors==0.4.5 
+tokenizers==0.20.1 
+transformers==4.46.0
+torch==2.1.0a0+29c30b1
+torchvision==0.16.0a0
+numpy==1.22.2
+tqdm==4.65.0
+scikit-learn==1.2.0
