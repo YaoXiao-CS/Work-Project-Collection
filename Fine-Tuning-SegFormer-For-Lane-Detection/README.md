@@ -5,8 +5,8 @@
 <table>
   <tr>
     <td><video width="300" height="200" controls><source src="./Appendix_files/146841430-1-16.mp4" type="video/mp4">您的浏览器不支持 video 标签。</video></td>
-    <td><video width="300" height="200" controls><source src="./Appendix_files/VCG.COM.mp4" type="video/mp4">您的浏览器不支持 video 标签。</video></td>
     <td><video width="300" height="200" controls><source src="./Appendix_files/videoplayback.mp4" type="video/mp4">您的浏览器不支持 video 标签。</video></td>
+    <td><video width="300" height="200" controls><source src="./Appendix_files/VCG.COM.mp4" type="video/mp4">您的浏览器不支持 video 标签。</video></td>
   </tr>
   <tr>
     <td><video width="300" height="200" controls><source src="./result_output/output_video.mp4" type="video/mp4">您的浏览器不支持 video 标签。</video></td>
@@ -14,6 +14,7 @@
     <td><video width="300" height="200" controls><source src="./result_output/output_video3.mp4" type="video/mp4">您的浏览器不支持 video 标签。</video></td>
   </tr>
 </table>
+
 
 #### 目录结构树
 
