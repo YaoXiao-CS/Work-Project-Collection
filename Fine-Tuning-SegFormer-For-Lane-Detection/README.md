@@ -2,6 +2,24 @@
 
 以下是在RTX3060上，以13分钟/Epoch训练了30个Epoch的测试效果：
 [如果视频未在线显示，请访问本项目的issues](https://github.com/YaoXiao-CS/Work-Project-Collection/issues/1)
+
+| Video1 | Video2 | Video3 |
+|-----|-----|-----|
+| [行1](https://github.com/user-attachments/assets/abaab5af-cb06-4f76-90f6-f1658382526c) | [行1](https://github.com/user-attachments/assets/e04b02b7-6a0b-4a52-87f8-06d5d9ce9b11) | [行1](https://github.com/user-attachments/assets/b70a478c-59d6-4958-a56d-0064fe244fbb) |
+| 行2 | 行2 | 行2 |
+| 行3 | 行3 | 行3 |
+
+
+
+
+
+
+
+
+
+
+
+
 <table>
  <tr>
     <td><video width="300" height="200" controls><source src="./Appendix_files/146841430-1-16.mp4" type="video/mp4">您的浏览器不支持 video 标签。</video></td>
