@@ -1,3 +1,8 @@
+"""
+推理文件运行环境：pyml-book             *  D:\installation\Anaconda3\envs\pyml-book
+时间：2024年10月27日
+"""
+
 # Import necessary libraries.
 import cv2
 from PIL import Image
@@ -9,20 +14,21 @@ from transformers import SegformerForSemanticSegmentation
 
 # Load the trained model. 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-model = SegformerForSemanticSegmentation.from_pretrained('nvidia/segformer-b2-finetuned-ade-512-512')
+model = SegformerForSemanticSegmentation.from_pretrained('./segformer-b2-finetuned-ade-512-512')
 
 # Replace with the actual number of classes.
 model.config.num_labels = 2  
 
 # Load the state from the fine-tuned model and set to model.eval() mode
-model.load_state_dict(torch.load('segformer_inference-360640-b2/best_model.pth'))
+model.load_state_dict(torch.load('./best_model.pth'))
 model.to(device)
 model.eval()
 
 # Video inference.
-cap = cv2.VideoCapture('test-footages/test-2.mp4')
+# cap = cv2.VideoCapture('./Appendix_files/146841430-1-16.mp4')
+cap = cv2.VideoCapture('./Appendix_files/VCG.COM.mp4')
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
-out = cv2.VideoWriter('output_video.avi', fourcc, 20.0, (int(cap.get(3)), int(cap.get(4))))
+out = cv2.VideoWriter('./result_output/output_video3.avi', fourcc, 20.0, (int(cap.get(3)), int(cap.get(4))))
 
 # Perform transformations
 data_transforms = TF.Compose([
