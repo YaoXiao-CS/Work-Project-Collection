@@ -1,7 +1,7 @@
 # Fine-Tuning SegFormer for Improved Lane Detection
 
 以下是在RTX3060上，以13分钟/Epoch训练了30个Epoch的测试效果：
-![如果视频未在线显示，请访问本项目的issues](https://github.com/YaoXiao-CS/Work-Project-Collection/issues/1)
+[如果视频未在线显示，请访问本项目的issues](https://github.com/YaoXiao-CS/Work-Project-Collection/issues/1)
 <table>
  <tr>
     <td><video width="300" height="200" controls><source src="./Appendix_files/146841430-1-16.mp4" type="video/mp4">您的浏览器不支持 video 标签。</video></td>
