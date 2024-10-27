@@ -3,25 +3,6 @@
 以下是在RTX3060上，以13分钟/Epoch训练了30个Epoch的测试效果：
 [如果视频未在线显示，请访问本项目的issues](https://github.com/YaoXiao-CS/Work-Project-Collection/issues/1)
 
-
-https://github.com/user-attachments/assets/a2cea92e-5b58-4c74-96dd-18c7f3e3da7f
-
-
-https://github.com/user-attachments/assets/47d78c64-2d16-4602-bd84-6ffc25d7f8b2
-
-
-
-https://github.com/user-attachments/assets/0015baec-95e3-48e2-8d2c-f6115963d080
-
-
-https://github.com/user-attachments/assets/335fbcad-bd2c-465e-bd9a-6aa16e5abc50
-
-
-
-https://github.com/user-attachments/assets/362a18cf-fa67-4c32-9de8-4935295e131c
-
-
-
 https://github.com/user-attachments/assets/69e06ebd-76ee-47c8-b29d-d0d03e03c79f
 
 
