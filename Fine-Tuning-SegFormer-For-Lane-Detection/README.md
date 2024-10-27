@@ -3,18 +3,29 @@
 以下是在RTX3060上，以13分钟/Epoch训练了30个Epoch的测试效果：
 [如果视频未在线显示，请访问本项目的issues](https://github.com/YaoXiao-CS/Work-Project-Collection/issues/1)
 
-| Video1 | Video2 | Video3 |
-|-----|-----|-----|
-| ![行1](https://github.com/user-attachments/assets/abaab5af-cb06-4f76-90f6-f1658382526c) | ![行1](https://github.com/user-attachments/assets/e04b02b7-6a0b-4a52-87f8-06d5d9ce9b11) | ![行1](https://github.com/user-attachments/assets/b70a478c-59d6-4958-a56d-0064fe244fbb) |
-| 行2 | 行2 | 行2 |
-| 行3 | 行3 | 行3 |
+
+https://github.com/user-attachments/assets/a2cea92e-5b58-4c74-96dd-18c7f3e3da7f
 
 
-https://github.com/user-attachments/assets/15c8c22a-5d2b-4b25-b121-9e8a94cadacb
+https://github.com/user-attachments/assets/47d78c64-2d16-4602-bd84-6ffc25d7f8b2
 
-https://github.com/user-attachments/assets/931d7e19-9ca4-4850-aada-644518c27912
 
-https://github.com/user-attachments/assets/7294f4aa-a467-4b6c-8032-42ad8fe65fa8
+
+https://github.com/user-attachments/assets/0015baec-95e3-48e2-8d2c-f6115963d080
+
+
+https://github.com/user-attachments/assets/335fbcad-bd2c-465e-bd9a-6aa16e5abc50
+
+
+
+https://github.com/user-attachments/assets/362a18cf-fa67-4c32-9de8-4935295e131c
+
+
+
+https://github.com/user-attachments/assets/69e06ebd-76ee-47c8-b29d-d0d03e03c79f
+
+
+
 
 
 
